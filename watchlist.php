@@ -27,14 +27,15 @@ $topics->define_columns($columns, $topic_column);
 $topics->add_td_class($topic_column, 'topic_headline');
 
 while (list($topic_id, $topic_headline, $topic_replies, $topic_visits, $topic_time) = $link->fetch_row($stmt)) {
+    $url = DOMAIN.'topic/' . $topic_id;
 	$values = array(
-		'<input type="checkbox" name="rejects[]" value="' . $topic_id . '" class="inline" /> <a href="'.DOMAIN.'topic/' . $topic_id . '">' . htmlspecialchars($topic_headline) . '</a>',
+		'<input type="checkbox" name="rejects[]" value="' . $topic_id . '" class="inline" /> <a href="'. $url . '">' . htmlspecialchars($topic_headline) . '</a>',
 		replies($topic_id, $topic_replies),
 		format_number($topic_visits),
 		'<span class="help" title="' . format_date($topic_time) . '">' . calculate_age($topic_time) . '</span>'
 	);
 	
-	$topics->row($values);
+	$topics->row($values, array('onClick' => 'document.location="' . $url . '"'));
 }
 $num_topics_fetched = $topics->num_rows_fetched;
 echo $topics->output();

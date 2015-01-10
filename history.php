@@ -34,13 +34,14 @@ if($new_citations) {
 	$citations->add_td_class('Reply to your reply', 'reply_body_snippet');
 
 	while (list($reply_id, $parent_id, $reply_time, $reply_body, $topic_headline, $topic_time) = $link->fetch_row($stmt)) {
+        $url = DOMAIN.'topic/' . $parent_id . '#reply_' . $reply_id;
 		$values = array(
-			'<a href="'.DOMAIN.'topic/' . $parent_id . '#reply_' . $reply_id . '">' . snippet($reply_body) . '</a>',
+			'<a href="'. $url . '">' . snippet($reply_body) . '</a>',
 			'<a href="'.DOMAIN.'topic/' . $parent_id . '">' . htmlspecialchars($topic_headline) . '</a> <span class="help unimportant" title="' . format_date($topic_time) . '">(' . calculate_age($topic_time) . ' old)</span>',
 			'<span class="help" title="' . format_date($reply_time) . '">' . calculate_age($reply_time) . '</span>'
 		);
 		
-		$citations->row($values);
+		$citations->row($values, array('onClick' => 'document.location="' . $url . '"'));
 	}
 	if($citations->num_rows_fetched > 0) {
 		echo $citations->output();
@@ -64,14 +65,15 @@ if(!$_GET['citations']) {
 	$topics->add_td_class('Headline', 'topic_headline');
 	
 	while (list($topic_id, $topic_time, $topic_replies, $topic_visits, $topic_headline) = $link->fetch_row($stmt)) {
+        $url = DOMAIN.'topic/' . $topic_id;
 		$values = array(
-			'<a href="'.DOMAIN.'topic/' . $topic_id . '">' . htmlspecialchars($topic_headline) . '</a>',
+			'<a href="'. $url . '">' . htmlspecialchars($topic_headline) . '</a>',
 			replies($topic_id, $topic_replies),
 			format_number($topic_visits),
 			'<span class="help" title="' . format_date($topic_time) . '">' . calculate_age($topic_time) . '</span>'
 		);
 		
-		$topics->row($values);
+		$topics->row($values, array('onClick' => 'document.location="' . $url . '"'));
 	}
 	$num_topics_fetched = $topics->num_rows_fetched;
 	echo $topics->output('topics');
@@ -91,14 +93,15 @@ if(!$_GET['citations']) {
 	$replies->add_td_class('Reply snippet', 'reply_body_snippet');
 	
 	while (list($reply_id, $parent_id, $reply_time, $reply_body, $topic_headline, $topic_time, $parent_replies) = $link->fetch_row($stmt)) {
+        $url = DOMAIN.'topic/' . $parent_id . '#reply_' . $reply_id;
 		$values = array(
-			'<a href="'.DOMAIN.'topic/' . $parent_id . '#reply_' . $reply_id . '">' . snippet($reply_body) . '</a>',
+			'<a href="'. $url . '">' . snippet($reply_body) . '</a>',
 			'<a href="'.DOMAIN.'topic/' . $parent_id . '">' . htmlspecialchars($topic_headline) . '</a> <span class="help unimportant" title="' . format_date($topic_time) . '">(' . calculate_age($topic_time) . ' old)</span>',
 			replies($parent_id, $parent_replies),
 			'<span class="help" title="' . format_date($reply_time) . '">' . calculate_age($reply_time) . '</span>'
 		);
 		
-		$replies->row($values);
+		$replies->row($values, array('onClick' => 'document.location="' . $url . '"'));
 	}
 	$num_replies_fetched = $replies->num_rows_fetched;
 	echo $replies->output('replies');

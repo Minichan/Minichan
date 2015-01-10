@@ -1076,12 +1076,16 @@ class table {
 		$this->order_time = $order_time;
 	}
 	
-	public function row($values) {
+	public function row($values, $attributes = []) {
 		// Print <tr>.
 		$this->output .=  indent(2) . '<tr';
 		if($this->num_rows_fetched & 1) {
 			$this->output .=  ' class="odd"';
 		}
+
+        foreach($attributes as $key => $value) {
+            $this->output .= ' ' . $key . '="' . htmlspecialchars($value) . '"';
+        }
 		
 		// Print the last seen marker.
 		if($this->last_seen && ! $this->marker_printed && $this->order_time <= $this->last_seen) {
