@@ -27,7 +27,7 @@ $topics->define_columns($columns, $topic_column);
 $topics->add_td_class($topic_column, 'topic_headline');
 
 while (list($topic_id, $topic_headline, $topic_replies, $topic_visits, $topic_time) = $link->fetch_row($stmt)) {
-    $url = DOMAIN.'topic/' . $topic_id;
+	$url = DOMAIN.'topic/' . $topic_id;
 	$values = array(
 		'<input type="checkbox" name="rejects[]" value="' . $topic_id . '" class="inline" /> <a href="'. $url . '">' . htmlspecialchars($topic_headline) . '</a>',
 		replies($topic_id, $topic_replies),

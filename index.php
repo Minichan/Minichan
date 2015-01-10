@@ -218,7 +218,7 @@ while(list($topic_id, $topic_time, $topic_replies, $topic_visits, $topic_headlin
 		//$topic_headline = preg_replace('/(\w{13})(?![^a-zA-Z])/', '$1'.chr(8203), $topic_headline);
 	//}
 
-    $url = DOMAIN.'topic/' . $topic_id;
+	$url = DOMAIN.'topic/' . $topic_id;
 	$visited = ((!$visited_topics[$topic_id] && isset($visited_topics[$topic_id])) || (($topic_replies - $visited_topics[$topic_id] != $topic_replies)) ? ' class="visited"' : '');
 
 	$values = array (

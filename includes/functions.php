@@ -1083,9 +1083,9 @@ class table {
 			$this->output .=  ' class="odd"';
 		}
 
-        foreach($attributes as $key => $value) {
-            $this->output .= ' ' . $key . '="' . htmlspecialchars($value) . '"';
-        }
+		foreach($attributes as $key => $value) {
+			$this->output .= ' ' . $key . '="' . htmlspecialchars($value) . '"';
+		}
 		
 		// Print the last seen marker.
 		if($this->last_seen && ! $this->marker_printed && $this->order_time <= $this->last_seen) {

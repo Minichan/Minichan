@@ -34,7 +34,7 @@ if($new_citations) {
 	$citations->add_td_class('Reply to your reply', 'reply_body_snippet');
 
 	while (list($reply_id, $parent_id, $reply_time, $reply_body, $topic_headline, $topic_time) = $link->fetch_row($stmt)) {
-        $url = DOMAIN.'topic/' . $parent_id . '#reply_' . $reply_id;
+		$url = DOMAIN.'topic/' . $parent_id . '#reply_' . $reply_id;
 		$values = array(
 			'<a href="'. $url . '">' . snippet($reply_body) . '</a>',
 			'<a href="'.DOMAIN.'topic/' . $parent_id . '">' . htmlspecialchars($topic_headline) . '</a> <span class="help unimportant" title="' . format_date($topic_time) . '">(' . calculate_age($topic_time) . ' old)</span>',
@@ -65,7 +65,7 @@ if(!$_GET['citations']) {
 	$topics->add_td_class('Headline', 'topic_headline');
 	
 	while (list($topic_id, $topic_time, $topic_replies, $topic_visits, $topic_headline) = $link->fetch_row($stmt)) {
-        $url = DOMAIN.'topic/' . $topic_id;
+		$url = DOMAIN.'topic/' . $topic_id;
 		$values = array(
 			'<a href="'. $url . '">' . htmlspecialchars($topic_headline) . '</a>',
 			replies($topic_id, $topic_replies),
@@ -93,7 +93,7 @@ if(!$_GET['citations']) {
 	$replies->add_td_class('Reply snippet', 'reply_body_snippet');
 	
 	while (list($reply_id, $parent_id, $reply_time, $reply_body, $topic_headline, $topic_time, $parent_replies) = $link->fetch_row($stmt)) {
-        $url = DOMAIN.'topic/' . $parent_id . '#reply_' . $reply_id;
+		$url = DOMAIN.'topic/' . $parent_id . '#reply_' . $reply_id;
 		$values = array(
 			'<a href="'. $url . '">' . snippet($reply_body) . '</a>',
 			'<a href="'.DOMAIN.'topic/' . $parent_id . '">' . htmlspecialchars($topic_headline) . '</a> <span class="help unimportant" title="' . format_date($topic_time) . '">(' . calculate_age($topic_time) . ' old)</span>',
