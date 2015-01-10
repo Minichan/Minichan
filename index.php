@@ -142,9 +142,9 @@ while(list($sticky_id, $sticky_time, $sticky_replies, $sticky_visits, $sticky_he
 	}
 
 	$visited = ((!$visited_topics[$sticky_id] && isset($visited_topics[$sticky_id])) || (($sticky_replies - $visited_topics[$sticky_id] != $sticky_replies)) ? ' class="visited"' : '');
-	
+	$url = DOMAIN . 'topic/' . $sticky_id;
 	$values = array (
-						'<a' . $visited . ' href="'.DOMAIN.'topic/' . $sticky_id . '">' . htmlspecialchars($sticky_headline, ENT_COMPAT | ENT_HTML401, "") . '</a>' . $pollTxt . ' <small class="topic_info">'.$lockTxt.'[STICKY]</small>',
+						'<a' . $visited . ' href="'. $url . '">' . htmlspecialchars($sticky_headline, ENT_COMPAT | ENT_HTML401, "") . '</a>' . $pollTxt . ' <small class="topic_info">'.$lockTxt.'[STICKY]</small>',
 						snippet($sticky_body),
 						replies($sticky_id, $sticky_replies),
 						format_number($sticky_visits),
@@ -157,7 +157,7 @@ while(list($sticky_id, $sticky_time, $sticky_replies, $sticky_visits, $sticky_he
 		array_splice($values, 2, 1);
 	}
 	$table->last_seen_marker(false, false);
-	$table->row($values);
+	$table->row($values, array('onClick' => 'document.location="' . $url . '"'));
 }
 
 $newPerPage = ($items_per_page - $stickyRows);
@@ -218,10 +218,11 @@ while(list($topic_id, $topic_time, $topic_replies, $topic_visits, $topic_headlin
 		//$topic_headline = preg_replace('/(\w{13})(?![^a-zA-Z])/', '$1'.chr(8203), $topic_headline);
 	//}
 
+	$url = DOMAIN.'topic/' . $topic_id;
 	$visited = ((!$visited_topics[$topic_id] && isset($visited_topics[$topic_id])) || (($topic_replies - $visited_topics[$topic_id] != $topic_replies)) ? ' class="visited"' : '');
 
 	$values = array (
-						'<a'.$visited.' href="'.DOMAIN.'topic/' . $topic_id . '">' . htmlspecialchars($topic_headline, ENT_COMPAT | ENT_HTML401, "") . '</a>' . $pollTxt . $lockTxt,
+						'<a'.$visited.' href="'. $url . '">' . htmlspecialchars($topic_headline, ENT_COMPAT | ENT_HTML401, "") . '</a>' . $pollTxt . $lockTxt,
 						snippet($topic_body),
 						replies($topic_id, $topic_replies),
 						format_number($topic_visits),
@@ -234,7 +235,7 @@ while(list($topic_id, $topic_time, $topic_replies, $topic_visits, $topic_headlin
 		array_splice($values, 2, 1);
 	}
 	$table->last_seen_marker($last_seen, $order_time);
-	$table->row($values);
+	$table->row($values, array('onClick' => 'document.location="' . $url . '"'));
 }
 $link->free_result($stmt);
 $num_rows_fetched = $table->num_rows_fetched;

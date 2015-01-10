@@ -28,13 +28,14 @@ $replies->add_td_class('Topic', 'topic_headline');
 $replies->add_td_class('Snippet', 'snippet');
 
 while (list($reply_id, $parent_id, $reply_time, $reply_body, $topic_headline, $topic_time) = $link->fetch_row($stmt)) {
+	$url = DOMAIN.'topic/' . $parent_id . '#reply_' . $reply_id;
 	$values = array(
-		'<a href="'.DOMAIN.'topic/' . $parent_id . '#reply_' . $reply_id . '">' . snippet($reply_body) . '</a>',
+		'<a href="' . $url . '">' . snippet($reply_body) . '</a>',
 		'<a href="'.DOMAIN.'topic/' . $parent_id . '">' . htmlspecialchars($topic_headline) . '</a> <span class="help unimportant" title="' . format_date($topic_time) . '">(' . calculate_age($topic_time) . ' old)</span>',
 		'<span class="help" title="' . format_date($reply_time) . '">' . calculate_age($reply_time) . '</span>'
 	);
 	
-	$replies->row($values);
+	$replies->row($values, array('onClick' => 'document.location = "' . $url . '"'));
 }
 $num_replies_fetched = $replies->num_rows_fetched;
 echo $replies->output();
