@@ -1,0 +1,5308 @@
+.icon {
+  background-image: url('../img/sprite.png');
+}
+
+.icon-left_luggage {
+  background-position: -5px -5px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-zzz {
+  background-position: -5px -37px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-zero {
+  background-position: -5px -69px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon\-1234 {
+  background-position: -5px -101px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-zap {
+  background-position: -5px -133px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-yum {
+  background-position: -5px -165px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-yen {
+  background-position: -5px -197px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-yellow_heart {
+  background-position: -5px -229px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-x {
+  background-position: -5px -261px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-wrench {
+  background-position: -5px -293px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-worried {
+  background-position: -5px -325px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon\-8ball {
+  background-position: -5px -357px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-womens {
+  background-position: -5px -389px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-womans_hat {
+  background-position: -5px -421px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-abcd {
+  background-position: -5px -453px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-abc {
+  background-position: -5px -485px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-ab {
+  background-position: -5px -517px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-accept {
+  background-position: -5px -549px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-aerial_tramway {
+  background-position: -5px -581px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-airplane {
+  background-position: -5px -613px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-alarm_clock {
+  background-position: -5px -645px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-alien {
+  background-position: -5px -677px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-ambulance {
+  background-position: -5px -709px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-anchor {
+  background-position: -5px -741px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-angel {
+  background-position: -5px -773px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-anger {
+  background-position: -5px -805px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-angry {
+  background-position: -5px -837px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-anguished {
+  background-position: -5px -869px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-ant {
+  background-position: -5px -901px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-a {
+  background-position: -5px -933px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-apple {
+  background-position: -5px -965px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-aquarius {
+  background-position: -5px -997px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-aries {
+  background-position: -5px -1029px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-arrow_backward {
+  background-position: -5px -1061px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-arrow_double_down {
+  background-position: -5px -1093px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-arrow_double_up {
+  background-position: -5px -1125px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-arrow_down {
+  background-position: -5px -1157px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-arrow_down_small {
+  background-position: -5px -1189px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-arrow_forward {
+  background-position: -5px -1221px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-arrow_heading_down {
+  background-position: -5px -1253px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-arrow_heading_up {
+  background-position: -5px -1285px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-arrow_left {
+  background-position: -5px -1317px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-arrow_lower_left {
+  background-position: -5px -1349px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-arrow_lower_right {
+  background-position: -5px -1381px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-arrow_right_hook {
+  background-position: -5px -1413px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-arrow_right {
+  background-position: -5px -1445px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-arrows_clockwise {
+  background-position: -5px -1477px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-arrows_counterclockwise {
+  background-position: -5px -1509px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-arrow_up_down {
+  background-position: -5px -1541px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-arrow_upper_left {
+  background-position: -5px -1573px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-arrow_upper_right {
+  background-position: -5px -1605px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-arrow_up {
+  background-position: -5px -1637px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-arrow_up_small {
+  background-position: -5px -1669px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-articulated_lorry {
+  background-position: -5px -1701px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-art {
+  background-position: -5px -1733px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-astonished {
+  background-position: -5px -1765px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-atm {
+  background-position: -5px -1797px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-baby_bottle {
+  background-position: -5px -1829px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-baby_chick {
+  background-position: -5px -1861px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-baby {
+  background-position: -5px -1893px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-baby_symbol {
+  background-position: -5px -1925px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-baggage_claim {
+  background-position: -5px -1957px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-balloon {
+  background-position: -5px -1989px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-ballot_box_with_check {
+  background-position: -5px -2021px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bamboo {
+  background-position: -5px -2053px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-banana {
+  background-position: -5px -2085px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bangbang {
+  background-position: -5px -2117px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bank {
+  background-position: -5px -2149px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-barber {
+  background-position: -5px -2181px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bar_chart {
+  background-position: -5px -2213px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-baseball {
+  background-position: -5px -2245px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-basketball {
+  background-position: -5px -2277px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bath {
+  background-position: -5px -2309px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bathtub {
+  background-position: -5px -2341px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-battery {
+  background-position: -5px -2373px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bear {
+  background-position: -5px -2405px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bee {
+  background-position: -5px -2437px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-beer {
+  background-position: -5px -2469px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-beers {
+  background-position: -5px -2501px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-beetle {
+  background-position: -5px -2533px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-beginner {
+  background-position: -5px -2565px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bell {
+  background-position: -5px -2597px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bento {
+  background-position: -5px -2629px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bicyclist {
+  background-position: -5px -2661px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bike {
+  background-position: -5px -2693px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bikini {
+  background-position: -5px -2725px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bird {
+  background-position: -5px -2757px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-birthday {
+  background-position: -5px -2789px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-black_circle {
+  background-position: -5px -2821px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-black_joker {
+  background-position: -5px -2853px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-black_nib {
+  background-position: -5px -2885px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-black_square_button {
+  background-position: -5px -2917px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-black_square {
+  background-position: -5px -2949px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-blossom {
+  background-position: -5px -2981px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-blowfish {
+  background-position: -5px -3013px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-blue_book {
+  background-position: -5px -3045px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-blue_car {
+  background-position: -5px -3077px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-blue_heart {
+  background-position: -5px -3109px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-blush {
+  background-position: -5px -3141px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-boar {
+  background-position: -5px -3173px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-boat {
+  background-position: -5px -3205px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bomb {
+  background-position: -5px -3237px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bookmark {
+  background-position: -5px -3269px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bookmark_tabs {
+  background-position: -5px -3301px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-book {
+  background-position: -5px -3333px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-books {
+  background-position: -5px -3365px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-boom {
+  background-position: -5px -3397px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-boot {
+  background-position: -5px -3429px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bouquet {
+  background-position: -5px -3461px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bowling {
+  background-position: -5px -3493px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bow {
+  background-position: -5px -3525px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bowtie {
+  background-position: -5px -3557px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-boy {
+  background-position: -5px -3589px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-b {
+  background-position: -5px -3621px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bread {
+  background-position: -5px -3653px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bride_with_veil {
+  background-position: -5px -3685px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bridge_at_night {
+  background-position: -5px -3717px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-briefcase {
+  background-position: -5px -3749px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-broken_heart {
+  background-position: -5px -3781px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bug {
+  background-position: -5px -3813px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bulb {
+  background-position: -5px -3845px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bullettrain_front {
+  background-position: -5px -3877px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bullettrain_side {
+  background-position: -5px -3909px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bus {
+  background-position: -5px -3941px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-busstop {
+  background-position: -5px -3973px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-bust_in_silhouette {
+  background-position: -5px -4005px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-busts_in_silhouette {
+  background-position: -5px -4037px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-cactus {
+  background-position: -5px -4069px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-cake {
+  background-position: -5px -4101px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-calendar {
+  background-position: -5px -4133px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-calling {
+  background-position: -5px -4165px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-camel {
+  background-position: -5px -4197px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-camera {
+  background-position: -5px -4229px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-cancer {
+  background-position: -5px -4261px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-candy {
+  background-position: -5px -4293px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-capital_abcd {
+  background-position: -5px -4325px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-capricorn {
+  background-position: -5px -4357px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-card_index {
+  background-position: -5px -4389px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-carousel_horse {
+  background-position: -5px -4421px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-car {
+  background-position: -5px -4453px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-cat2 {
+  background-position: -5px -4485px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-cat {
+  background-position: -5px -4517px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-cd {
+  background-position: -5px -4549px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-chart {
+  background-position: -5px -4581px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-chart_with_downwards_trend {
+  background-position: -5px -4613px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-chart_with_upwards_trend {
+  background-position: -5px -4645px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-checkered_flag {
+  background-position: -5px -4677px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-cherries {
+  background-position: -5px -4709px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-cherry_blossom {
+  background-position: -5px -4741px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-chestnut {
+  background-position: -5px -4773px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-chicken {
+  background-position: -5px -4805px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-children_crossing {
+  background-position: -5px -4837px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-chocolate_bar {
+  background-position: -5px -4869px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-christmas_tree {
+  background-position: -5px -4901px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-church {
+  background-position: -5px -4933px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-cinema {
+  background-position: -5px -4965px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-circus_tent {
+  background-position: -5px -4997px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-city_sunrise {
+  background-position: -5px -5029px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-city_sunset {
+  background-position: -5px -5061px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clapper {
+  background-position: -5px -5093px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clap {
+  background-position: -5px -5125px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clipboard {
+  background-position: -5px -5157px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clock1030 {
+  background-position: -5px -5189px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clock10 {
+  background-position: -5px -5221px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clock1130 {
+  background-position: -5px -5253px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clock11 {
+  background-position: -5px -5285px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clock1230 {
+  background-position: -5px -5317px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clock12 {
+  background-position: -5px -5349px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clock130 {
+  background-position: -5px -5381px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clock1 {
+  background-position: -5px -5413px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clock230 {
+  background-position: -5px -5445px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clock2 {
+  background-position: -5px -5477px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clock330 {
+  background-position: -5px -5509px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clock3 {
+  background-position: -5px -5541px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clock430 {
+  background-position: -5px -5573px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clock4 {
+  background-position: -5px -5605px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clock530 {
+  background-position: -5px -5637px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clock5 {
+  background-position: -5px -5669px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clock630 {
+  background-position: -5px -5701px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clock6 {
+  background-position: -5px -5733px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clock730 {
+  background-position: -5px -5765px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clock7 {
+  background-position: -5px -5797px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clock830 {
+  background-position: -5px -5829px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clock8 {
+  background-position: -5px -5861px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clock930 {
+  background-position: -5px -5893px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clock9 {
+  background-position: -5px -5925px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-closed_book {
+  background-position: -5px -5957px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-closed_lock_with_key {
+  background-position: -5px -5989px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-closed_umbrella {
+  background-position: -5px -6021px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-cloud {
+  background-position: -5px -6053px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-cl {
+  background-position: -5px -6085px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-clubs {
+  background-position: -5px -6117px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-cn {
+  background-position: -5px -6149px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-cocktail {
+  background-position: -5px -6181px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-coffee {
+  background-position: -5px -6213px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-cold_sweat {
+  background-position: -5px -6245px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-collision {
+  background-position: -5px -6277px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-computer {
+  background-position: -5px -6309px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-confetti_ball {
+  background-position: -5px -6341px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-confounded {
+  background-position: -5px -6373px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-confused {
+  background-position: -5px -6405px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-congratulations {
+  background-position: -5px -6437px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-construction {
+  background-position: -5px -6469px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-construction_worker {
+  background-position: -5px -6501px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-convenience_store {
+  background-position: -5px -6533px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-cookie {
+  background-position: -5px -6565px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-cool {
+  background-position: -5px -6597px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-cop {
+  background-position: -5px -6629px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-copyright {
+  background-position: -5px -6661px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-corn {
+  background-position: -5px -6693px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-couplekiss {
+  background-position: -5px -6725px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-couple {
+  background-position: -5px -6757px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-couple_with_heart {
+  background-position: -5px -6789px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-cow2 {
+  background-position: -5px -6821px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-cow {
+  background-position: -5px -6853px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-credit_card {
+  background-position: -5px -6885px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-crocodile {
+  background-position: -5px -6917px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-crossed_flags {
+  background-position: -5px -6949px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-crown {
+  background-position: -5px -6981px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-crying_cat_face {
+  background-position: -5px -7013px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-cry {
+  background-position: -5px -7045px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-crystal_ball {
+  background-position: -5px -7077px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-cupid {
+  background-position: -5px -7109px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-curly_loop {
+  background-position: -5px -7141px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-currency_exchange {
+  background-position: -5px -7173px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-curry {
+  background-position: -5px -7205px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-custard {
+  background-position: -5px -7237px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-customs {
+  background-position: -5px -7269px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-cyclone {
+  background-position: -5px -7301px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-dancer {
+  background-position: -5px -7333px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-dancers {
+  background-position: -5px -7365px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-dango {
+  background-position: -5px -7397px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-dart {
+  background-position: -5px -7429px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-dash {
+  background-position: -5px -7461px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-date {
+  background-position: -5px -7493px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-deciduous_tree {
+  background-position: -5px -7525px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-department_store {
+  background-position: -5px -7557px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-de {
+  background-position: -5px -7589px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-diamond_shape_with_a_dot_inside {
+  background-position: -5px -7621px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-diamonds {
+  background-position: -5px -7653px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-disappointed {
+  background-position: -5px -7685px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-disappointed_relieved {
+  background-position: -5px -7717px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-dizzy_face {
+  background-position: -5px -7749px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-dizzy {
+  background-position: -5px -7781px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-dog2 {
+  background-position: -5px -7813px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-dog {
+  background-position: -5px -7845px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-dollar {
+  background-position: -5px -7877px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-dolls {
+  background-position: -5px -7909px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-dolphin {
+  background-position: -5px -7941px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-do_not_litter {
+  background-position: -5px -7973px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-donut {
+  background-position: -5px -8005px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-door {
+  background-position: -5px -8037px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-doughnut {
+  background-position: -5px -8069px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-dragon_face {
+  background-position: -5px -8101px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-dragon {
+  background-position: -5px -8133px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-dress {
+  background-position: -5px -8165px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-dromedary_camel {
+  background-position: -5px -8197px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-droplet {
+  background-position: -5px -8229px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-dvd {
+  background-position: -5px -8261px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-ear_of_rice {
+  background-position: -5px -8293px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-ear {
+  background-position: -5px -8325px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-earth_africa {
+  background-position: -5px -8357px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-earth_americas {
+  background-position: -5px -8389px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-earth_asia {
+  background-position: -5px -8421px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-eggplant {
+  background-position: -5px -8453px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-egg {
+  background-position: -5px -8485px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-womans_clothes {
+  background-position: -5px -8517px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-eight {
+  background-position: -5px -8549px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-eight_pointed_black_star {
+  background-position: -5px -8581px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-eight_spoked_asterisk {
+  background-position: -5px -8613px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-electric_plug {
+  background-position: -5px -8645px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-elephant {
+  background-position: -5px -8677px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-e-mail {
+  background-position: -5px -8709px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-email {
+  background-position: -5px -8741px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-end {
+  background-position: -5px -8773px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-envelope {
+  background-position: -5px -8805px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-es {
+  background-position: -5px -8837px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-european_castle {
+  background-position: -5px -8869px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-european_post_office {
+  background-position: -5px -8901px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-euro {
+  background-position: -5px -8933px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-evergreen_tree {
+  background-position: -5px -8965px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-exclamation {
+  background-position: -5px -8997px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-expressionless {
+  background-position: -5px -9029px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-eyeglasses {
+  background-position: -5px -9061px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-eyes {
+  background-position: -5px -9093px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-facepunch {
+  background-position: -5px -9125px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-factory {
+  background-position: -5px -9157px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-fallen_leaf {
+  background-position: -5px -9189px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-family {
+  background-position: -5px -9221px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-fast_forward {
+  background-position: -5px -9253px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-fax {
+  background-position: -5px -9285px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-fearful {
+  background-position: -5px -9317px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-feelsgood {
+  background-position: -5px -9349px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-feet {
+  background-position: -5px -9381px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-ferris_wheel {
+  background-position: -5px -9413px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-file_folder {
+  background-position: -5px -9445px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-finnadie {
+  background-position: -5px -9477px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-fire_engine {
+  background-position: -5px -9509px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-fire {
+  background-position: -5px -9541px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-fireworks {
+  background-position: -5px -9573px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-first_quarter_moon {
+  background-position: -5px -9605px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-first_quarter_moon_with_face {
+  background-position: -5px -9637px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-fish_cake {
+  background-position: -5px -9669px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-fishing_pole_and_fish {
+  background-position: -5px -9701px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-fish {
+  background-position: -5px -9733px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-fist {
+  background-position: -5px -9765px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-five {
+  background-position: -5px -9797px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-flags {
+  background-position: -5px -9829px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-flashlight {
+  background-position: -5px -9861px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-floppy_disk {
+  background-position: -5px -9893px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-flower_playing_cards {
+  background-position: -5px -9925px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-flushed {
+  background-position: -5px -9957px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-foggy {
+  background-position: -5px -9989px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-football {
+  background-position: -5px -10021px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-fork_and_knife {
+  background-position: -5px -10053px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-fountain {
+  background-position: -5px -10085px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-four_leaf_clover {
+  background-position: -5px -10117px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-four {
+  background-position: -5px -10149px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-free {
+  background-position: -5px -10181px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-fried_shrimp {
+  background-position: -5px -10213px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-fries {
+  background-position: -5px -10245px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-frog {
+  background-position: -5px -10277px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-frowning {
+  background-position: -5px -10309px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-fr {
+  background-position: -5px -10341px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-fuelpump {
+  background-position: -5px -10373px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-full_moon {
+  background-position: -5px -10405px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-full_moon_with_face {
+  background-position: -5px -10437px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-fu {
+  background-position: -5px -10469px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-game_die {
+  background-position: -5px -10501px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-gb {
+  background-position: -5px -10533px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-gemini {
+  background-position: -5px -10565px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-gem {
+  background-position: -5px -10597px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-ghost {
+  background-position: -5px -10629px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-gift_heart {
+  background-position: -5px -10661px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-gift {
+  background-position: -5px -10693px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-girl {
+  background-position: -5px -10725px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-globe_with_meridians {
+  background-position: -5px -10757px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-goat {
+  background-position: -5px -10789px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-goberserk {
+  background-position: -5px -10821px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-godmode {
+  background-position: -5px -10853px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-golf {
+  background-position: -5px -10885px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-grapes {
+  background-position: -5px -10917px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-green_apple {
+  background-position: -5px -10949px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-green_book {
+  background-position: -5px -10981px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-green_heart {
+  background-position: -5px -11013px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-grey_exclamation {
+  background-position: -5px -11045px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-grey_question {
+  background-position: -5px -11077px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-grimacing {
+  background-position: -5px -11109px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-grinning {
+  background-position: -5px -11141px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-grin {
+  background-position: -5px -11173px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-guardsman {
+  background-position: -5px -11205px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-guitar {
+  background-position: -5px -11237px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-gun {
+  background-position: -5px -11269px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-haircut {
+  background-position: -5px -11301px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-hamburger {
+  background-position: -5px -11333px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-hammer {
+  background-position: -5px -11365px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-hamster {
+  background-position: -5px -11397px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-handbag {
+  background-position: -5px -11429px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-hand {
+  background-position: -5px -11461px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-hankey {
+  background-position: -5px -11493px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-hash {
+  background-position: -5px -11525px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-hatched_chick {
+  background-position: -5px -11557px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-hatching_chick {
+  background-position: -5px -11589px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-headphones {
+  background-position: -5px -11621px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-hear_no_evil {
+  background-position: -5px -11653px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-heartbeat {
+  background-position: -5px -11685px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-heart_decoration {
+  background-position: -5px -11717px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-heart_eyes_cat {
+  background-position: -5px -11749px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-heart_eyes {
+  background-position: -5px -11781px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-heart {
+  background-position: -5px -11813px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-heartpulse {
+  background-position: -5px -11845px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-hearts {
+  background-position: -5px -11877px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-heavy_check_mark {
+  background-position: -5px -11909px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-heavy_division_sign {
+  background-position: -5px -11941px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-heavy_dollar_sign {
+  background-position: -5px -11973px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-heavy_exclamation_mark {
+  background-position: -5px -12005px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-heavy_minus_sign {
+  background-position: -5px -12037px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-heavy_multiplication_x {
+  background-position: -5px -12069px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-heavy_plus_sign {
+  background-position: -5px -12101px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-helicopter {
+  background-position: -5px -12133px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-herb {
+  background-position: -5px -12165px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-hibiscus {
+  background-position: -5px -12197px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-high_brightness {
+  background-position: -5px -12229px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-high_heel {
+  background-position: -5px -12261px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-hocho {
+  background-position: -5px -12293px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-honeybee {
+  background-position: -5px -12325px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-honey_pot {
+  background-position: -5px -12357px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-horse {
+  background-position: -5px -12389px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-horse_racing {
+  background-position: -5px -12421px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-hospital {
+  background-position: -5px -12453px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-hotel {
+  background-position: -5px -12485px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-hotsprings {
+  background-position: -5px -12517px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-hourglass_flowing_sand {
+  background-position: -5px -12549px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-hourglass {
+  background-position: -5px -12581px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-house {
+  background-position: -5px -12613px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-house_with_garden {
+  background-position: -5px -12645px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-hurtrealbad {
+  background-position: -5px -12677px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-hushed {
+  background-position: -5px -12709px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-ice_cream {
+  background-position: -5px -12741px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-icecream {
+  background-position: -5px -12773px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-ideograph_advantage {
+  background-position: -5px -12805px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-id {
+  background-position: -5px -12837px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-imp {
+  background-position: -5px -12869px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-inbox_tray {
+  background-position: -5px -12901px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-incoming_envelope {
+  background-position: -5px -12933px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-information_desk_person {
+  background-position: -5px -12965px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-information_source {
+  background-position: -5px -12997px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-innocent {
+  background-position: -5px -13029px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-interrobang {
+  background-position: -5px -13061px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-iphone {
+  background-position: -5px -13093px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-it {
+  background-position: -5px -13125px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-izakaya_lantern {
+  background-position: -5px -13157px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-jack_o_lantern {
+  background-position: -5px -13189px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-japanese_castle {
+  background-position: -5px -13221px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-japanese_goblin {
+  background-position: -5px -13253px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-japanese_ogre {
+  background-position: -5px -13285px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-japan {
+  background-position: -5px -13317px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-jeans {
+  background-position: -5px -13349px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-joy_cat {
+  background-position: -5px -13381px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-joy {
+  background-position: -5px -13413px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-jp {
+  background-position: -5px -13445px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-keycap_ten {
+  background-position: -5px -13477px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-key {
+  background-position: -5px -13509px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-kimono {
+  background-position: -5px -13541px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-kissing_cat {
+  background-position: -5px -13573px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-kissing_closed_eyes {
+  background-position: -5px -13605px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-kissing_face {
+  background-position: -5px -13637px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-kissing_heart {
+  background-position: -5px -13669px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-kissing {
+  background-position: -5px -13701px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-kissing_smiling_eyes {
+  background-position: -5px -13733px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-kiss {
+  background-position: -5px -13765px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-koala {
+  background-position: -5px -13797px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-koko {
+  background-position: -5px -13829px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-kr {
+  background-position: -5px -13861px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-large_blue_circle {
+  background-position: -5px -13893px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-large_blue_diamond {
+  background-position: -5px -13925px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-large_orange_diamond {
+  background-position: -5px -13957px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-last_quarter_moon {
+  background-position: -5px -13989px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-last_quarter_moon_with_face {
+  background-position: -5px -14021px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-laughing {
+  background-position: -5px -14053px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-leaves {
+  background-position: -5px -14085px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-ledger {
+  background-position: -5px -14117px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon\-100 {
+  background-position: -5px -14149px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-left_right_arrow {
+  background-position: -5px -14181px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-leftwards_arrow_with_hook {
+  background-position: -5px -14213px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-lemon {
+  background-position: -5px -14245px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-leopard {
+  background-position: -5px -14277px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-leo {
+  background-position: -5px -14309px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-libra {
+  background-position: -5px -14341px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-light_rail {
+  background-position: -5px -14373px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-link {
+  background-position: -5px -14405px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-lips {
+  background-position: -5px -14437px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-lipstick {
+  background-position: -5px -14469px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-lock {
+  background-position: -5px -14501px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-lock_with_ink_pen {
+  background-position: -5px -14533px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-lollipop {
+  background-position: -5px -14565px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-loop {
+  background-position: -5px -14597px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-loudspeaker {
+  background-position: -5px -14629px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-love_hotel {
+  background-position: -5px -14661px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-love_letter {
+  background-position: -5px -14693px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-low_brightness {
+  background-position: -5px -14725px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-mag {
+  background-position: -5px -14757px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-mag_right {
+  background-position: -5px -14789px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-mahjong {
+  background-position: -5px -14821px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-mailbox_closed {
+  background-position: -5px -14853px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-mailbox {
+  background-position: -5px -14885px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-mailbox_with_mail {
+  background-position: -5px -14917px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-mailbox_with_no_mail {
+  background-position: -5px -14949px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-man {
+  background-position: -5px -14981px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-mans_shoe {
+  background-position: -5px -15013px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-man_with_gua_pi_mao {
+  background-position: -5px -15045px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-man_with_turban {
+  background-position: -5px -15077px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-maple_leaf {
+  background-position: -5px -15109px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-mask {
+  background-position: -5px -15141px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-massage {
+  background-position: -5px -15173px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-meat_on_bone {
+  background-position: -5px -15205px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-mega {
+  background-position: -5px -15237px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-melon {
+  background-position: -5px -15269px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-memo {
+  background-position: -5px -15301px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-mens {
+  background-position: -5px -15333px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-metal {
+  background-position: -5px -15365px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-metro {
+  background-position: -5px -15397px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-microphone {
+  background-position: -5px -15429px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-microscope {
+  background-position: -5px -15461px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-milky_way {
+  background-position: -5px -15493px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-minibus {
+  background-position: -5px -15525px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-minidisc {
+  background-position: -5px -15557px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-minus1 {
+  background-position: -5px -15589px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-mobile_phone_off {
+  background-position: -5px -15621px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-moneybag {
+  background-position: -5px -15653px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-money_with_wings {
+  background-position: -5px -15685px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-monkey_face {
+  background-position: -5px -15717px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-monkey {
+  background-position: -5px -15749px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-monorail {
+  background-position: -5px -15781px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-moon {
+  background-position: -5px -15813px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-mortar_board {
+  background-position: -5px -15845px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-mountain_bicyclist {
+  background-position: -5px -15877px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-mountain_cableway {
+  background-position: -5px -15909px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-mountain_railway {
+  background-position: -5px -15941px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-mount_fuji {
+  background-position: -5px -15973px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-mouse2 {
+  background-position: -5px -16005px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-mouse {
+  background-position: -5px -16037px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-movie_camera {
+  background-position: -5px -16069px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-moyai {
+  background-position: -5px -16101px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-m {
+  background-position: -5px -16133px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-muscle {
+  background-position: -5px -16165px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-mushroom {
+  background-position: -5px -16197px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-musical_keyboard {
+  background-position: -5px -16229px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-musical_note {
+  background-position: -5px -16261px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-musical_score {
+  background-position: -5px -16293px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-mute {
+  background-position: -5px -16325px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-nail_care {
+  background-position: -5px -16357px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-name_badge {
+  background-position: -5px -16389px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-neckbeard {
+  background-position: -5px -16421px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-necktie {
+  background-position: -5px -16453px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-negative_squared_cross_mark {
+  background-position: -5px -16485px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-neutral_face {
+  background-position: -5px -16517px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-new_moon {
+  background-position: -5px -16549px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-new_moon_with_face {
+  background-position: -5px -16581px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-new {
+  background-position: -5px -16613px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-newspaper {
+  background-position: -5px -16645px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-ng {
+  background-position: -5px -16677px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-nine {
+  background-position: -5px -16709px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-no_bell {
+  background-position: -5px -16741px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-no_bicycles {
+  background-position: -5px -16773px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-no_entry {
+  background-position: -5px -16805px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-no_entry_sign {
+  background-position: -5px -16837px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-no_good {
+  background-position: -5px -16869px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-no_mobile_phones {
+  background-position: -5px -16901px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-no_mouth {
+  background-position: -5px -16933px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-non-potable_water {
+  background-position: -5px -16965px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-no_pedestrians {
+  background-position: -5px -16997px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-nose {
+  background-position: -5px -17029px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-no_smoking {
+  background-position: -5px -17061px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-notebook {
+  background-position: -5px -17093px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-notebook_with_decorative_cover {
+  background-position: -5px -17125px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-notes {
+  background-position: -5px -17157px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-nut_and_bolt {
+  background-position: -5px -17189px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-o2 {
+  background-position: -5px -17221px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-ocean {
+  background-position: -5px -17253px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-octocat {
+  background-position: -5px -17285px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-octopus {
+  background-position: -5px -17317px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-oden {
+  background-position: -5px -17349px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-office {
+  background-position: -5px -17381px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-ok_hand {
+  background-position: -5px -17413px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-ok {
+  background-position: -5px -17445px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-ok_woman {
+  background-position: -5px -17477px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-older_man {
+  background-position: -5px -17509px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-older_woman {
+  background-position: -5px -17541px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-oncoming_automobile {
+  background-position: -5px -17573px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-oncoming_bus {
+  background-position: -5px -17605px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-oncoming_police_car {
+  background-position: -5px -17637px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-oncoming_taxi {
+  background-position: -5px -17669px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-one {
+  background-position: -5px -17701px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-on {
+  background-position: -5px -17733px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-open_file_folder {
+  background-position: -5px -17765px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-open_hands {
+  background-position: -5px -17797px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-open_mouth {
+  background-position: -5px -17829px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-ophiuchus {
+  background-position: -5px -17861px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-o {
+  background-position: -5px -17893px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-orange_book {
+  background-position: -5px -17925px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-outbox_tray {
+  background-position: -5px -17957px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-ox {
+  background-position: -5px -17989px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-page_facing_up {
+  background-position: -5px -18021px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-pager {
+  background-position: -5px -18053px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-page_with_curl {
+  background-position: -5px -18085px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-palm_tree {
+  background-position: -5px -18117px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-panda_face {
+  background-position: -5px -18149px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-paperclip {
+  background-position: -5px -18181px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-parking {
+  background-position: -5px -18213px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-part_alternation_mark {
+  background-position: -5px -18245px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-partly_sunny {
+  background-position: -5px -18277px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-passport_control {
+  background-position: -5px -18309px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-paw_prints {
+  background-position: -5px -18341px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-peach {
+  background-position: -5px -18373px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-pear {
+  background-position: -5px -18405px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-pencil2 {
+  background-position: -5px -18437px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-pencil {
+  background-position: -5px -18469px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-penguin {
+  background-position: -5px -18501px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-pensive {
+  background-position: -5px -18533px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-performing_arts {
+  background-position: -5px -18565px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-persevere {
+  background-position: -5px -18597px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-person_frowning {
+  background-position: -5px -18629px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-person_with_blond_hair {
+  background-position: -5px -18661px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-person_with_pouting_face {
+  background-position: -5px -18693px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-phone {
+  background-position: -5px -18725px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-pig2 {
+  background-position: -5px -18757px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-pig_nose {
+  background-position: -5px -18789px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-pig {
+  background-position: -5px -18821px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-pill {
+  background-position: -5px -18853px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-pineapple {
+  background-position: -5px -18885px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-pisces {
+  background-position: -5px -18917px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-pizza {
+  background-position: -5px -18949px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-plus1 {
+  background-position: -5px -18981px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-point_down {
+  background-position: -5px -19013px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-point_left {
+  background-position: -5px -19045px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-point_right {
+  background-position: -5px -19077px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-point_up_2 {
+  background-position: -5px -19109px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-point_up {
+  background-position: -5px -19141px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-police_car {
+  background-position: -5px -19173px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-poodle {
+  background-position: -5px -19205px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-poop {
+  background-position: -5px -19237px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-postal_horn {
+  background-position: -5px -19269px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-postbox {
+  background-position: -5px -19301px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-post_office {
+  background-position: -5px -19333px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-potable_water {
+  background-position: -5px -19365px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-pouch {
+  background-position: -5px -19397px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-poultry_leg {
+  background-position: -5px -19429px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-pound {
+  background-position: -5px -19461px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-pouting_cat {
+  background-position: -5px -19493px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-pray {
+  background-position: -5px -19525px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-princess {
+  background-position: -5px -19557px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-punch {
+  background-position: -5px -19589px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-purple_heart {
+  background-position: -5px -19621px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-purse {
+  background-position: -5px -19653px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-pushpin {
+  background-position: -5px -19685px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-put_litter_in_its_place {
+  background-position: -5px -19717px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-question {
+  background-position: -5px -19749px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-rabbit2 {
+  background-position: -5px -19781px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-rabbit {
+  background-position: -5px -19813px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-racehorse {
+  background-position: -5px -19845px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-radio_button {
+  background-position: -5px -19877px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-radio {
+  background-position: -5px -19909px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-rage1 {
+  background-position: -5px -19941px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-rage2 {
+  background-position: -5px -19973px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-rage3 {
+  background-position: -5px -20005px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-rage4 {
+  background-position: -5px -20037px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-rage {
+  background-position: -5px -20069px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-railway_car {
+  background-position: -5px -20101px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-rainbow {
+  background-position: -5px -20133px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-raised_hand {
+  background-position: -5px -20165px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-raised_hands {
+  background-position: -5px -20197px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-raising_hand {
+  background-position: -5px -20229px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-ramen {
+  background-position: -5px -20261px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-ram {
+  background-position: -5px -20293px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-rat {
+  background-position: -5px -20325px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-recycle {
+  background-position: -5px -20357px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-red_car {
+  background-position: -5px -20389px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-red_circle {
+  background-position: -5px -20421px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-registered {
+  background-position: -5px -20453px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-relaxed {
+  background-position: -5px -20485px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-relieved {
+  background-position: -5px -20517px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-repeat_one {
+  background-position: -5px -20549px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-repeat {
+  background-position: -5px -20581px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-restroom {
+  background-position: -5px -20613px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-revolving_hearts {
+  background-position: -5px -20645px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-rewind {
+  background-position: -5px -20677px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-ribbon {
+  background-position: -5px -20709px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-rice_ball {
+  background-position: -5px -20741px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-rice_cracker {
+  background-position: -5px -20773px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-rice {
+  background-position: -5px -20805px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-rice_scene {
+  background-position: -5px -20837px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-ring {
+  background-position: -5px -20869px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-rocket {
+  background-position: -5px -20901px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-roller_coaster {
+  background-position: -5px -20933px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-rooster {
+  background-position: -5px -20965px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-rose {
+  background-position: -5px -20997px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-rotating_light {
+  background-position: -5px -21029px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-round_pushpin {
+  background-position: -5px -21061px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-rowboat {
+  background-position: -5px -21093px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-rugby_football {
+  background-position: -5px -21125px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-runner {
+  background-position: -5px -21157px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-running {
+  background-position: -5px -21189px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-running_shirt_with_sash {
+  background-position: -5px -21221px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-ru {
+  background-position: -5px -21253px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-sagittarius {
+  background-position: -5px -21285px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-sailboat {
+  background-position: -5px -21317px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-sake {
+  background-position: -5px -21349px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-sandal {
+  background-position: -5px -21381px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-santa {
+  background-position: -5px -21413px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-sa {
+  background-position: -5px -21445px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-satellite {
+  background-position: -5px -21477px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-satisfied {
+  background-position: -5px -21509px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-saxophone {
+  background-position: -5px -21541px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-school {
+  background-position: -5px -21573px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-school_satchel {
+  background-position: -5px -21605px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-scissors {
+  background-position: -5px -21637px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-scorpius {
+  background-position: -5px -21669px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-scream_cat {
+  background-position: -5px -21701px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-scream {
+  background-position: -5px -21733px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-scroll {
+  background-position: -5px -21765px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-seat {
+  background-position: -5px -21797px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-secret {
+  background-position: -5px -21829px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-seedling {
+  background-position: -5px -21861px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-see_no_evil {
+  background-position: -5px -21893px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-seven {
+  background-position: -5px -21925px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-shaved_ice {
+  background-position: -5px -21957px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-sheep {
+  background-position: -5px -21989px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-shell {
+  background-position: -5px -22021px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-shipit {
+  background-position: -5px -22053px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-ship {
+  background-position: -5px -22085px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-shirt {
+  background-position: -5px -22117px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-shit {
+  background-position: -5px -22149px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-shoe {
+  background-position: -5px -22181px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-shower {
+  background-position: -5px -22213px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-signal_strength {
+  background-position: -5px -22245px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-six {
+  background-position: -5px -22277px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-six_pointed_star {
+  background-position: -5px -22309px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-ski {
+  background-position: -5px -22341px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-skull {
+  background-position: -5px -22373px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-sleeping {
+  background-position: -5px -22405px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-sleepy {
+  background-position: -5px -22437px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-slot_machine {
+  background-position: -5px -22469px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-small_blue_diamond {
+  background-position: -5px -22501px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-small_orange_diamond {
+  background-position: -5px -22533px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-small_red_triangle_down {
+  background-position: -5px -22565px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-small_red_triangle {
+  background-position: -5px -22597px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-smile_cat {
+  background-position: -5px -22629px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-smile {
+  background-position: -5px -22661px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-smiley_cat {
+  background-position: -5px -22693px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-smiley {
+  background-position: -5px -22725px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-smiling_imp {
+  background-position: -5px -22757px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-smirk_cat {
+  background-position: -5px -22789px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-smirk {
+  background-position: -5px -22821px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-smoking {
+  background-position: -5px -22853px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-snail {
+  background-position: -5px -22885px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-snake {
+  background-position: -5px -22917px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-snowboarder {
+  background-position: -5px -22949px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-snowflake {
+  background-position: -5px -22981px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-snowman {
+  background-position: -5px -23013px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-sob {
+  background-position: -5px -23045px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-soccer {
+  background-position: -5px -23077px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-soon {
+  background-position: -5px -23109px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-sos {
+  background-position: -5px -23141px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-sound {
+  background-position: -5px -23173px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-space_invader {
+  background-position: -5px -23205px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-spades {
+  background-position: -5px -23237px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-spaghetti {
+  background-position: -5px -23269px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-sparkler {
+  background-position: -5px -23301px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-sparkles {
+  background-position: -5px -23333px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-sparkling_heart {
+  background-position: -5px -23365px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-speaker {
+  background-position: -5px -23397px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-speak_no_evil {
+  background-position: -5px -23429px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-speech_balloon {
+  background-position: -5px -23461px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-speedboat {
+  background-position: -5px -23493px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-squirrel {
+  background-position: -5px -23525px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-star2 {
+  background-position: -5px -23557px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-star {
+  background-position: -5px -23589px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-stars {
+  background-position: -5px -23621px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-station {
+  background-position: -5px -23653px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-statue_of_liberty {
+  background-position: -5px -23685px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-steam_locomotive {
+  background-position: -5px -23717px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-stew {
+  background-position: -5px -23749px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-straight_ruler {
+  background-position: -5px -23781px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-strawberry {
+  background-position: -5px -23813px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-stuck_out_tongue_closed_eyes {
+  background-position: -5px -23845px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-stuck_out_tongue {
+  background-position: -5px -23877px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-stuck_out_tongue_winking_eye {
+  background-position: -5px -23909px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-sunflower {
+  background-position: -5px -23941px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-sunglasses {
+  background-position: -5px -23973px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-sunny {
+  background-position: -5px -24005px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-sunrise_over_mountains {
+  background-position: -5px -24037px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-sunrise {
+  background-position: -5px -24069px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-sun_with_face {
+  background-position: -5px -24101px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-surfer {
+  background-position: -5px -24133px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-sushi {
+  background-position: -5px -24165px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-suspect {
+  background-position: -5px -24197px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-suspension_railway {
+  background-position: -5px -24229px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-sweat_drops {
+  background-position: -5px -24261px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-sweat {
+  background-position: -5px -24293px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-sweat_smile {
+  background-position: -5px -24325px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-sweet_potato {
+  background-position: -5px -24357px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-swimmer {
+  background-position: -5px -24389px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-symbols {
+  background-position: -5px -24421px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-syringe {
+  background-position: -5px -24453px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-tada {
+  background-position: -5px -24485px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-tanabata_tree {
+  background-position: -5px -24517px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-tangerine {
+  background-position: -5px -24549px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-taurus {
+  background-position: -5px -24581px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-taxi {
+  background-position: -5px -24613px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-tea {
+  background-position: -5px -24645px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-telephone {
+  background-position: -5px -24677px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-telephone_receiver {
+  background-position: -5px -24709px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-telescope {
+  background-position: -5px -24741px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-tennis {
+  background-position: -5px -24773px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-tent {
+  background-position: -5px -24805px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-thought_balloon {
+  background-position: -5px -24837px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-three {
+  background-position: -5px -24869px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-thumbsdown {
+  background-position: -5px -24901px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-thumbsup {
+  background-position: -5px -24933px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-ticket {
+  background-position: -5px -24965px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-tiger2 {
+  background-position: -5px -24997px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-tiger {
+  background-position: -5px -25029px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-tired_face {
+  background-position: -5px -25061px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-tm {
+  background-position: -5px -25093px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-toilet {
+  background-position: -5px -25125px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-tokyo_tower {
+  background-position: -5px -25157px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-tomato {
+  background-position: -5px -25189px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-tongue {
+  background-position: -5px -25221px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-tophat {
+  background-position: -5px -25253px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-top {
+  background-position: -5px -25285px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-tractor {
+  background-position: -5px -25317px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-traffic_light {
+  background-position: -5px -25349px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-train2 {
+  background-position: -5px -25381px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-train {
+  background-position: -5px -25413px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-tram {
+  background-position: -5px -25445px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-triangular_flag_on_post {
+  background-position: -5px -25477px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-triangular_ruler {
+  background-position: -5px -25509px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-trident {
+  background-position: -5px -25541px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-triumph {
+  background-position: -5px -25573px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-trolleybus {
+  background-position: -5px -25605px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-trollface {
+  background-position: -5px -25637px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-trophy {
+  background-position: -5px -25669px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-tropical_drink {
+  background-position: -5px -25701px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-tropical_fish {
+  background-position: -5px -25733px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-truck {
+  background-position: -5px -25765px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-trumpet {
+  background-position: -5px -25797px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-tshirt {
+  background-position: -5px -25829px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-tulip {
+  background-position: -5px -25861px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-turtle {
+  background-position: -5px -25893px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-tv {
+  background-position: -5px -25925px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-twisted_rightwards_arrows {
+  background-position: -5px -25957px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-two_hearts {
+  background-position: -5px -25989px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-two_men_holding_hands {
+  background-position: -5px -26021px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-two {
+  background-position: -5px -26053px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-two_women_holding_hands {
+  background-position: -5px -26085px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-u5272 {
+  background-position: -5px -26117px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-u5408 {
+  background-position: -5px -26149px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-u55b6 {
+  background-position: -5px -26181px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-u6307 {
+  background-position: -5px -26213px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-u6708 {
+  background-position: -5px -26245px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-u6709 {
+  background-position: -5px -26277px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-u6e80 {
+  background-position: -5px -26309px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-u7121 {
+  background-position: -5px -26341px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-u7533 {
+  background-position: -5px -26373px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-u7981 {
+  background-position: -5px -26405px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-u7a7a {
+  background-position: -5px -26437px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-uk {
+  background-position: -5px -26469px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-umbrella {
+  background-position: -5px -26501px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-unamused {
+  background-position: -5px -26533px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-underage {
+  background-position: -5px -26565px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-unlock {
+  background-position: -5px -26597px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-up {
+  background-position: -5px -26629px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-us {
+  background-position: -5px -26661px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-vertical_traffic_light {
+  background-position: -5px -26693px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-vhs {
+  background-position: -5px -26725px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-vibration_mode {
+  background-position: -5px -26757px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-video_camera {
+  background-position: -5px -26789px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-video_game {
+  background-position: -5px -26821px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-violin {
+  background-position: -5px -26853px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-virgo {
+  background-position: -5px -26885px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-volcano {
+  background-position: -5px -26917px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-v {
+  background-position: -5px -26949px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-vs {
+  background-position: -5px -26981px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-walking {
+  background-position: -5px -27013px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-waning_crescent_moon {
+  background-position: -5px -27045px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-waning_gibbous_moon {
+  background-position: -5px -27077px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-warning {
+  background-position: -5px -27109px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-watch {
+  background-position: -5px -27141px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-water_buffalo {
+  background-position: -5px -27173px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-watermelon {
+  background-position: -5px -27205px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-wave {
+  background-position: -5px -27237px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-wavy_dash {
+  background-position: -5px -27269px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-waxing_crescent_moon {
+  background-position: -5px -27301px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-waxing_gibbous_moon {
+  background-position: -5px -27333px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-wc {
+  background-position: -5px -27365px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-weary {
+  background-position: -5px -27397px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-wedding {
+  background-position: -5px -27429px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-whale2 {
+  background-position: -5px -27461px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-whale {
+  background-position: -5px -27493px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-wheelchair {
+  background-position: -5px -27525px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-white_check_mark {
+  background-position: -5px -27557px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-white_circle {
+  background-position: -5px -27589px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-white_flower {
+  background-position: -5px -27621px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-white_square_button {
+  background-position: -5px -27653px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-white_square {
+  background-position: -5px -27685px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-wind_chime {
+  background-position: -5px -27717px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-wine_glass {
+  background-position: -5px -27749px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-woman {
+  background-position: -5px -27781px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-wink {
+  background-position: -5px -27813px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-wolf {
+  background-position: -5px -27845px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon\-5 {
+  background-position: -5px -27877px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon-wink2 {
+  background-position: -5px -27911px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon\-9 {
+  background-position: -5px -27945px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon\-8 {
+  background-position: -5px -27979px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon\-7 {
+  background-position: -5px -28013px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon\-6 {
+  background-position: -5px -28047px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon-egplant {
+  background-position: -5px -28081px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon\-4 {
+  background-position: -5px -28115px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon\-3 {
+  background-position: -5px -28149px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon\-2 {
+  background-position: -5px -28183px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon\-1 {
+  background-position: -5px -28217px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon\-109 {
+  background-position: -5px -28251px;
+  width: 24px;
+  height: 24px;
+}
+
+.icon\-0 {
+  background-position: -5px -28285px;
+  width: 24px;
+  height: 24px;
+}
+

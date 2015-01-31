@@ -204,7 +204,7 @@ class EmoticonVisitor implements JBBCode\NodeVisitor {
 		$text = $textNode->getValue();
 		foreach(getEmoticons() as $key=>$img) {
 			$src = STATIC_DOMAIN . 'img/emoticons/'.$img;
-			$img = '<img title=":'.htmlspecialchars($key, ENT_COMPAT | ENT_HTML401 | ENT_QUOTES).':" src="'.$src.'" />';
+			$img = '<span title=":'.htmlspecialchars($key, ENT_COMPAT | ENT_HTML401 | ENT_QUOTES).':" class="icon icon-'.$key.'" >&nbsp;</span>';
 			$text = str_replace(':'.$key.':', $img, $text);
 		}
 		$textNode->setValue($text);

@@ -34,6 +34,7 @@
 		<title><?php echo strip_tags($page_title) . ' — ' . SITE_TITLE ?></title>
 		<link rel="icon" type="image/gif" href="<?php echo STATIC_DOMAIN; ?>favicon.gif" />
 		<link rel="stylesheet" type="text/css" media="screen" href="<?php echo (STATIC_DOMAIN . 'style/layout.css') ?>?10" />
+		<link rel="stylesheet" type="text/css" media="screen" href="<?php echo (STATIC_DOMAIN . 'style/sprite.css') ?>" />
 		<link rel="stylesheet" type="text/css" media="screen" href="<?php echo (($custom_stylesheet) ? htmlspecialchars($custom_stylesheet) : (STATIC_DOMAIN . 'style/' . $stylesheet . '.css?2')) ?>" />
 		<link rel="stylesheet" type="text/css" media="screen" href="<?php echo (STATIC_DOMAIN . 'javascript/highlight-styles/vs.css') ?>" />
 		<?php if(MOBILE_MODE){ ?>

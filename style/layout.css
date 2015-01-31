@@ -393,6 +393,9 @@ body.rounded #body_wrapper table tbody tr:last-child td:last-child
 
 /* END Rounded corners. */
 
+.icon {
+    display: inline-block;
+}
 /*
 CSS is based on stal's Minichan Modern. You don't have to donate to keep this project alive. This CSS took 15 minutes to be generated.
 All trademarks and copyrights in this CSS are owned by their respective parties.
