@@ -1,5 +1,8 @@
 ![](http://i.imgur.com/8SZWa2h.gif)
 
+This project adheres to the Contributor Covenant, version 1.3.0. See
+[`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) for more information. By
+participating, you are expected to uphold these protocols.
 
 #Installation
 * Install dependencies with [composer](https://getcomposer.org/doc/00-intro.md) using `composer install`
