@@ -16,14 +16,15 @@ echo '<form name="watch_list" action="" method="post">';
 
 $stmt = $link->db_exec('SELECT watchlists.topic_id, topics.headline, topics.replies, topics.visits, topics.time FROM watchlists INNER JOIN topics ON watchlists.topic_id = topics.id WHERE watchlists.uid = %1 ORDER BY last_post DESC', $_SESSION['UID']);
 
-$topics = new table();
-$topic_column = '<script type="text/javascript"> document.write(\'<input type="checkbox" name="master_checkbox" class="inline" onclick="checkOrUncheckAllCheckboxes()" title="Check/uncheck all" /> \');</script>Topic';
+$topics = new table('selectable');
+$topic_column = 'Topic';
 $columns = array(
     $topic_column,
     'Replies',
     'Visits',
     'Age ▼',
 );
+$topics->add_table_class('selectable');
 $topics->define_columns($columns, $topic_column);
 $topics->add_td_class($topic_column, 'topic_headline');
 

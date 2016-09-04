@@ -1246,17 +1246,23 @@ class table
     private $output = '';
     private $primary_key;
     private $columns = array();
+    private $table_tag;
     private $td_classes = array();
     private $marker_printed = false;
     private $last_seen = false;
     private $order_time = false;
     private $odd = false;
 
+    public function __construct($classes='') {
+        $this->table_tag = '<table class="'.$classes.'">';
+    }
+
     public function define_columns($all_columns, $primary_column)
     {
         $this->columns = $all_columns;
 
-        $this->output .= '<table>'.indent().'<thead>'.indent(2).'<tr>';
+        $this->output .= $this->table_tag
+                      .indent().'<thead>'.indent(2).'<tr>';
 
         foreach ($all_columns as $key => $column) {
             $this->output .=   indent(3).' <th class="';
@@ -1268,6 +1274,11 @@ class table
             $this->output .= string_to_stylesheet_class($column).'">'.$column.'</th>';
         }
         $this->output .=  indent(2).'</tr>'.indent().'</thead>'.indent().'<tbody>';
+    }
+
+    public function add_table_class($class)
+    {
+        $this->table_classes = $class;
     }
 
     public function add_td_class($column_name, $class)
