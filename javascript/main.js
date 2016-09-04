@@ -37,7 +37,6 @@ function uploadImage(file) {
 	document.getElementById("uploader").href = "";
 	var reader = new FileReader();
 	reader.onloadend = function () {
-		console.log('Doin');
 		$.ajax({
 			url: 'https://api.imgur.com/3/image',
 			type: 'post',
@@ -348,7 +347,7 @@ function quickCite(id){
  */
 function initialiseSelectableTables() {
     let selectableTables = document.querySelectorAll('table.selectable');
-    selectableTables.forEach(table => {
+    for (let table of Array.from(selectableTables)) {
 	let heading = table.querySelector('thead tr th');
 	let input = document.createElement("input");
 	input.type = 'checkbox';
@@ -357,12 +356,12 @@ function initialiseSelectableTables() {
 	heading.insertBefore(input, heading.firstChild);
 	input.addEventListener('change', e => {
 	    let value = e.target.checked;
-	    Array.from(table.querySelectorAll('tbody tr td:first-child input[type="checkbox"'))
-		.forEach(cb => {
-		    cb.checked = value;
-		});
+	    let checkboxes = table.querySelectorAll('tbody tr td:first-child input[type="checkbox"]');
+	    for (let cb of checkboxes) {
+		cb.checked = value;
+	    }
 	});
-    });
+    }
 }
 
 window.submitDummyForm = submitDummyForm;
