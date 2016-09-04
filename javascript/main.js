@@ -37,7 +37,6 @@ function uploadImage(file) {
 	document.getElementById("uploader").href = "";
 	var reader = new FileReader();
 	reader.onloadend = function () {
-		console.log('Doin');
 		$.ajax({
 			url: 'https://api.imgur.com/3/image',
 			type: 'post',
@@ -342,17 +341,27 @@ function quickCite(id){
 	return false;
 }
 
-window.checkOrUncheckAllCheckboxes = checkOrUncheckAllCheckboxes;
-function checkOrUncheckAllCheckboxes() {
-	tmp = document.tinybbs_tmp;
-	for (i = 0; i < tmp.elements.length; i++) {
-		if (tmp.elements[i].type == 'checkbox') {
-			if (tmp.master_checkbox.checked == true)
-				tmp.elements[i].checked = true;
-			else
-				tmp.elements[i].checked = false;
-		}
-	}
+/*
+ * When a table has the "selectable" class, a select box is added to the heading
+ * which all the select boxes (assumed to be in the first column) shall be bound to.
+ */
+function initialiseSelectableTables() {
+    let selectableTables = document.querySelectorAll('table.selectable');
+    for (let table of Array.from(selectableTables)) {
+	let heading = table.querySelector('thead tr th');
+	let input = document.createElement("input");
+	input.type = 'checkbox';
+	input.title = "Check / Uncheck all";
+	input.style.display = 'inline';
+	heading.insertBefore(input, heading.firstChild);
+	input.addEventListener('change', e => {
+	    let value = e.target.checked;
+	    let checkboxes = table.querySelectorAll('tbody tr td:first-child input[type="checkbox"]');
+	    for (let cb of checkboxes) {
+		cb.checked = value;
+	    }
+	});
+    }
 }
 
 window.submitDummyForm = submitDummyForm;
@@ -580,6 +589,7 @@ function init() {
 }
 
 $(init);
+$(initialiseSelectableTables);
 
 window.submitSetTime = submitSetTime;
 function submitSetTime(el) {
