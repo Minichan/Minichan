@@ -153,11 +153,11 @@ if (allowed('ban_ip')) {
     echo htmlspecialchars($banreason);
 }
     ?>" class="inline" />
-		<input type="submit" value="<?php echo ($banned) ? 'Update ban length' : 'Ban' ?>" class="inline" /> <input type="submit" name="banuids" value="Ban & Ban all UIDs" class="inline" /> 
+		<input type="submit" value="<?php echo ($banned) ? 'Update ban length' : 'Ban' ?>" class="inline" /> <input type="submit" name="banuids" value="Ban & Ban all UIDs" class="inline" />
 		<span class="unimportant">(A ban length of "indefinite" will never expire.)</span>
 	</div>
 </form>
-<?php 
+<?php
 } ?>
 <ul class="menu">
 	<?php if ($banned && allowed('ban_ip')) {
@@ -168,15 +168,15 @@ if (allowed('ban_ip')) {
 } ?>
 	<?php if (allowed('nuke_uids')) {
     ?><li><a href="<?php echo DOMAIN;
-    ?>delete_IP_IDs/<?php echo $ip_address ?>">Delete all IDs</a></li><?php 
+    ?>delete_IP_IDs/<?php echo $ip_address ?>">Delete all IDs</a></li><?php
 } ?>
 	<?php if (allowed('nuke_posts')) {
     ?><li><a href="<?php echo DOMAIN;
-    ?>nuke_IP/<?php echo $ip_address ?>">Delete all posts</a></li><?php 
+    ?>nuke_IP/<?php echo $ip_address ?>">Delete all posts</a></li><?php
 } ?>
-	<li><a target="_blank" href="http://whois.domaintools.com/<?php echo $ip_address ?>">Whois</a></li>
-	<li><a target="_blank" href="http://www.maxmind.com/app/locate_demo_ip?ips=<?php echo $ip_address ?>">Geofag (1)</a></li>
-	<li><a target="_blank" href="http://www.geoiptool.com/?IP=<?php echo $ip_address ?>">Geofag (2)</a></li>
+	<li><a target="_blank" href="https://whois.domaintools.com/<?php echo $ip_address ?>">Whois</a></li>
+	<li><a target="_blank" href="https://db-ip.com/<?php echo $ip_address ?>">Geofag (1)</a></li>
+	<li><a target="_blank" href="https://www.geoiptool.com/en/?ip=<?php echo $ip_address ?>">Geofag (2)</a></li>
 	<li><a href="<?php echo DOMAIN; ?>stalk/ip/<?php echo $ip_address ?>">Stalk</a></li>
 </ul>
 <?php
