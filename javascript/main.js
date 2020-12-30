@@ -585,12 +585,8 @@ function init() {
             } else {
                 $img.hide();
                 var $video = $("<video />");
-                // NOTE: gifv tend to be served as webm OR mp4; first try webm
-                var url_webm = $this.attr("href").replace(videoRegex, "") + ".webm";
-                // NOTE: fallback URL
+                // NOTE: imgur stopped rendering webm files as of 2016-06-03
                 var url_mp4 = $this.attr("href").replace(videoRegex, "") + ".mp4";
-                $(video).append($("<source src=\"" + url_webm + "\" type=\"video/webm\"/>"))
-                $(video).append($("<source src=\"" + url_mp4 + "\" type=\"video/mp4\"/>"))
                 $video.css("margin-bottom", $img.css("margin-bottom"));
                 $video.css("margin-right", $img.css("margin-right"));
                 $video.css("max-width", "100%");
@@ -598,6 +594,7 @@ function init() {
                 $video.css("display", "block");
                 $video.attr("autoplay", true);
                 $video.attr("loop", true);
+                $video.attr("src", url_mp4);
                 $img.after($video);
             }
         }
