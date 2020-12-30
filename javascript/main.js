@@ -530,9 +530,10 @@ function init() {
         var $this = $(this);
         var $img = $("img", this);
 
-        if($img.hasClass("img-loading")) return;
+        // short circuit: no-op until the loading is completed
+        if ($img.hasClass("img-loading")) return;
 
-        if($img.hasClass("img-expanded")) {
+        if ($img.hasClass("img-expanded")) {
             $img.css({
                 'width': $img.data('width'),
                 'float': 'left',
@@ -542,7 +543,7 @@ function init() {
             $img.removeClass("img-expanded");
             $("video", $this).remove();
             $img.show();
-        }else{
+        } else {
             var videoRegex = /\.(webm|gifv)$/;
             var isVideo = $this.attr("href").match(videoRegex);
 
@@ -556,7 +557,7 @@ function init() {
 
             $img.addClass("img-expanded");
 
-            if(!isVideo) {
+            if (!isVideo) {
                 $img.addClass("img-loading");
 
                 var preload = new Image();
@@ -581,16 +582,20 @@ function init() {
                 });
 
                 preload.src = $this.attr("href");
-            }else{
+            } else {
                 $img.hide();
-                var url = $this.attr("href").replace(videoRegex, "") + ".webm";
                 var $video = $("<video />");
+                // NOTE: gifv tend to be served as webm OR mp4; first try webm
+                var url_webm = $this.attr("href").replace(videoRegex, "") + ".webm";
+                // NOTE: fallback URL
+                var url_mp4 = $this.attr("href").replace(videoRegex, "") + ".mp4";
+                $(video).append($("<source src=\"" + url_webm + "\" type=\"video/webm\"/>"))
+                $(video).append($("<source src=\"" + url_mp4 + "\" type=\"video/mp4\"/>"))
                 $video.css("margin-bottom", $img.css("margin-bottom"));
                 $video.css("margin-right", $img.css("margin-right"));
                 $video.css("max-width", "100%");
                 $video.css("float", "none");
                 $video.css("display", "block");
-                $video.attr("src", url);
                 $video.attr("autoplay", true);
                 $video.attr("loop", true);
                 $img.after($video);
