@@ -544,7 +544,7 @@ function init() {
             $("video", $this).remove();
             $img.show();
         } else {
-            var videoRegex = /\.(webm|gifv)$/;
+            var videoRegex = /\.(webm|gifv)$/i;
             var isVideo = $this.attr("href").match(videoRegex);
 
             if(!$img.data("storedData")) {
